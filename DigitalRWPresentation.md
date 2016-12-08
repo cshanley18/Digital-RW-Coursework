@@ -3,7 +3,6 @@ Digital Writing Final Presentation
 **Background**
 
 - Gregory of Nyssa: Theologian, philosopher, rhetorician
-	- Dialogues, sermons, treatises, biographies
 - Stylistic patterns across this corpus
 
 ---
@@ -12,7 +11,7 @@ Digital Writing Final Presentation
 	ὅσα περὶ τὴν θείαν καθοραται φύσιν
 	
 - Basic form: verb-noun
-- How common is this across Gregory's corpus?  What different forms can it take?
+- The Question: How common is this across Gregory's corpus?  What different forms can it take?
 
 ---
 **Preparing Texts**'
