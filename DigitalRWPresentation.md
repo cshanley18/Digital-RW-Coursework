@@ -26,7 +26,7 @@ Digital Writing Final Presentation
 
 - Aligned Text using Parts of Speech, not lemmata
 
-	! [https://github.com/cshanley18/Digital-RW-Coursework/blob/master/DigitalRWPresentation/alignedPoS100.png.png]
+	! [B](https://github.com/cshanley18/Digital-RW-Coursework/blob/master/DigitalRWPresentation/alignedPoS100.png.png)
 - Bom Character and contaminated data
 	 
 
