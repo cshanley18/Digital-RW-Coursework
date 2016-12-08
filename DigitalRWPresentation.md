@@ -40,4 +40,4 @@ Digital Writing Final Presentation
 - All of Gregory
 - Does frequency vary among different literary forms in the Nyssenian corpus?
 - Compare  with classical models 
-	- De Anima and the Phaedo, for instance
+	- De Anima and the Phaedo
