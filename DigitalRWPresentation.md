@@ -18,14 +18,16 @@ Digital Writing Final Presentation
 
 - Begin from 700 raw OCR files
 - Extract the XML text from the OCR structure and parse
+	
 	![A](https://github.com/cshanley18/Digital-RW-Coursework/blob/master/DigitalRWPresentation/rawOCRImage.png.png)
 
 ---
 **Prepared Text**
 - Aligned Text using Parts of Speech, not lemmata
+- Contaminated Data
 
 	![B](https://github.com/cshanley18/Digital-RW-Coursework/blob/master/DigitalRWPresentation/alignedPoS100.png.png)
-- Contaminated Data
+
 	 
 
 ---
