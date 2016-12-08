@@ -17,9 +17,8 @@ Digital Writing Final Presentation
 **Preparing Texts**'
 
 - Begin from 700 raw OCR files
-
-	![A](https://github.com/cshanley18/Digital-RW-Coursework/blob/master/DigitalRWPresentation/rawOCRImage.png.png)
 - Extract the XML text from the OCR structure and parse
+	![A](https://github.com/cshanley18/Digital-RW-Coursework/blob/master/DigitalRWPresentation/rawOCRImage.png.png)
 
 ---
 **Prepared Text**
