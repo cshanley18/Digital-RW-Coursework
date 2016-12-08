@@ -34,3 +34,10 @@ Digital Writing Final Presentation
 **Methods**
 
 - Plan: use n-grams and the sliding function to observe each occurrence of the noun-verb pair, and then count backwards from that pair to catch any article or adjective
+
+---
+**Avenues for Future Research**
+- All of Gregory
+- Does frequency vary among different literary forms in the Nyssenian corpus?
+- Compare  with classical models 
+	- De Anima and the Phaedo, for instance
