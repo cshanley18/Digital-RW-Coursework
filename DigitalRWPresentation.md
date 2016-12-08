@@ -19,7 +19,7 @@ Digital Writing Final Presentation
 
 - Begin from 700 raw OCR files
 
-	! (Digital-RW-Coursework/DigitalRWPresentation/rawOCRImage.png.png)
+	! [alt test](Digital-RW-Coursework/DigitalRWPresentation/rawOCRImage.png.png)
 - Extract the XML text from the OCR structure and parse
 
 ---
