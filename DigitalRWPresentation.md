@@ -23,11 +23,11 @@ Digital Writing Final Presentation
 - Extract the XML text from the OCR structure and parse
 
 ---
-
+**Prepared Text**
 - Aligned Text using Parts of Speech, not lemmata
 
 	![B](https://github.com/cshanley18/Digital-RW-Coursework/blob/master/DigitalRWPresentation/alignedPoS100.png.png)
-- Bom Character and contaminated data
+- Contaminated Data
 	 
 
 ---
