@@ -18,13 +18,13 @@ Digital Writing Final Presentation
 **Preparing Texts**'
 
 - Begin from 700 raw OCR files
-	- Image:
+	![][Digital-RW-Coursework/DigitalRWPresentation/rawOCRImage.png.png]
 - Extract the XML text from the OCR structure and parse
 
 ---
 
 - Aligned Text using Parts of Speech, not lemmata
-	- Image:
+	![][Digital-RW-Coursework/DigitalRWPresentation/alignedPoS100.png.png]
 - Bom Screen
 	- Image: 
 
